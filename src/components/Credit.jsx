@@ -22,7 +22,7 @@ export function Credit() {
             textDecoration: 'none',
             color: '#000'
         }}
-        >개발자 인스타 : @tjdwn_.firo</a>
+        >웹사이트 개발자 인스타 : @tjdwn_.firo</a>
         </>
     );
 }
